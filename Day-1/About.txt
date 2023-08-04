@@ -1,0 +1,2 @@
+This the code changes for Day 1
+Band Name Generator
